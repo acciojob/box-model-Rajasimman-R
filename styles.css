@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+
+.gcircle{
+	height: 50px;
+  width: 50px;
+  background-color: green;
+  border-radius: 50%;
+  display: inline-block;
+	text-align:center;
+}
+.rcircle{
+	text-align:center;
+	height: 50px;
+  width: 50px;
+  background-color: red;
+  border-radius: 50%;
+  display: inline-block;
+}
+.ycircle{
+	text-align:center;
+	height: 50px;
+  width: 50px;
+  background-color: yellow;
+  border-radius: 50%;
+  display: inline-block;
+}
+.outerreg{
+	display:inline-block;
+	background-color:gray;
+	border-radius:20%;
+	border:7px solid black;
+	padding:10%;
+}
