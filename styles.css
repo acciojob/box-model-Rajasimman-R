@@ -24,7 +24,7 @@
   border-radius: 50%;
   display: inline-block;
 }
-.outerreg{
+.container{
 	display:inline-block;
 	background-color:gray;
 	border-radius:10%;
